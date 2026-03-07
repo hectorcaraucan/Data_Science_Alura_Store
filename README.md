@@ -12,7 +12,7 @@ Estructura del Proyecto
 
 El repositorio está organizado de la siguiente manera:
 
-Plaintext
+
 
 ├── data/                   # Archivos CSV con los datos crudos
 
