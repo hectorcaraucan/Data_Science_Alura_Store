@@ -54,4 +54,4 @@ Google Colab (Recomendado)
 3.	Ejecuta todas las celdas secuencialmente.
 
 Autor
-Héctor Caraucán - Analista de Datos en formación.
+Héctor Rafael Caraucán Dávila
